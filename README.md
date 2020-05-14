@@ -1,4 +1,5 @@
 # Rust Fast Curve 3d
+![crates.io](https://img.shields.io/crates/v/fastcurve_3d.svg)
 ![Rust](https://github.com/gberrante/fastcurve_3d/workflows/Rust/badge.svg)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![codecov](https://codecov.io/gh/gberrante/fastcurve_3d/branch/master/graph/badge.svg)](https://codecov.io/gh/gberrante/fastcurve_3d)
