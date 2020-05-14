@@ -3,7 +3,13 @@ name = "fastcurve_3d"
 version = "0.1.0"
 authors = ["gberrante <30345675+gberrante@users.noreply.github.com>"]
 edition = "2018"
-
+description = "Library for 3D and 2D fast curve generation"
+license-file = "LICENSE.txt"
+readme = "README.md"
+homepage = "https://github.com/gberrante/fastcurve_3d"
+repository = "https://github.com/gberrante/fastcurve_3d"
+keywords = ["graphics", "path", "3d", "curve", "games"]
+categories = ["graphics","science::robotics","mathematics","games"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
