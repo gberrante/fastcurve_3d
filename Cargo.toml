@@ -1,7 +1,7 @@
 [package]
 name = "fastcurve_3d"
 version = "0.1.0"
-authors = ["gberrante <30345675+gberrante@users.noreply.github.com>"]
+authors = ["Giovan Battista Errante"]
 edition = "2018"
 description = "Library for 3D and 2D fast curve generation"
 license-file = "LICENSE.txt"
