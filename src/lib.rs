@@ -93,7 +93,7 @@ pub fn fast_3d_step(x : &Vec<f64>,y : &Vec<f64>,z : &Vec<f64>) -> (Vec<f64>,Vec<
 
     xnew.push(x[0]);
     ynew.push(y[0]);
-    znew.push(y[0]);
+    znew.push(z[0]);
     for i in 1..x.len()-1 {
         let a1_x = 0.25*x[i-1]+0.75*x[i]; 
         let a1_y = 0.25*y[i-1]+0.75*y[i]; 
